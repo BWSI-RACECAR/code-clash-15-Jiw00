@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Isaac00Asimov0001",
+      "output": "First name = Isaac, Last name = Asimov, id = 1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test2",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Joseph0000Engleberger215",
+      "output": "First name = Joseph, Last name = Engleberger, id = 215",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test3",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Raffaello0DAndea00003178",
+      "output": "First name = Raffaello, Last name = DAndea, id = 3178",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test4",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Marc00000000Raibert0023",
+      "output": "First name = Marc, Last name = Raibert, id = 23",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test5",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Daniela00000Rus0132",
+      "output": "First name = Daniela, Last name = Rus, id = 132",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test6",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Carter00Berlind0113",
+      "output": "First name = Carter, Last name = Berlind, id = 113",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test7",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Joe000000000Shmo0068",
+      "output": "First name = Joe, Last name = Shmo, id = 68",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test8",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "John0Doe33",
+      "output": "First name = John, Last name = Doe, id = 33",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test9",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Jane0000Plain0000067",
+      "output": "First name = Jane, Last name = Plain, id = 67",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test10",
+      "setup": "",
+      "run": "python3 namedecoder.py",
+      "input": "Hannah00000000000000Banana00419",
+      "output": "First name = Hannah, Last name = Banana, id = 419",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
